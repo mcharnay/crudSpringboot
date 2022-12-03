@@ -1,0 +1,9 @@
+1-. Crear spring starter project, type maven uso java version 8
+2-. Agregar las dependencias que se usarán:
+-web > spring web
+-sql > spring data JPA  y mysql driver
+-template engines > thymeleaf (biblioteca Java que implementa un motor de plantillas de XML/XHTML/HTML5)
+
+-swettalert 
+-jquery
+
